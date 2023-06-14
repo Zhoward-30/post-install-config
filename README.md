@@ -18,11 +18,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure Free Account
+- Understanding of Windows Ost
+- Understanding of SLA's
+- Installation Files
+
 
 <h2>Configuration Steps</h2>
 
